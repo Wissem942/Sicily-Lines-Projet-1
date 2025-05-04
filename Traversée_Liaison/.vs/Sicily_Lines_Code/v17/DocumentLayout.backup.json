@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|c:\\users\\bilel\\desktop\\mission traversee_2\\sicily_lines\\dal\\portdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|solutionrelative:sicily_lines\\dal\\portdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|C:\\Users\\bilel\\Desktop\\mission traversee_2\\sicily_lines\\vue\\formgestionliaison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|solutionrelative:sicily_lines\\vue\\formgestionliaison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|C:\\Users\\bilel\\Desktop\\mission traversee_2\\sicily_lines\\vue\\formtraversee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|solutionrelative:sicily_lines\\vue\\formtraversee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|C:\\Users\\bilel\\Desktop\\mission traversee_2\\sicily_lines\\vue\\formgestionliaison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|solutionrelative:sicily_lines\\vue\\formgestionliaison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|C:\\Users\\bilel\\Desktop\\mission traversee_2\\sicily_lines\\controleur\\mgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|solutionrelative:sicily_lines\\controleur\\mgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|C:\\Users\\bilel\\Desktop\\mission traversee_2\\sicily_lines\\vue\\formtraversee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|solutionrelative:sicily_lines\\vue\\formtraversee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|C:\\Users\\bilel\\Desktop\\mission traversee_2\\sicily_lines\\vue\\formtraversee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|solutionrelative:sicily_lines\\vue\\formtraversee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|C:\\Users\\bilel\\Desktop\\mission traversee_2\\sicily_lines\\dal\\bateaudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|solutionrelative:sicily_lines\\dal\\bateaudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|C:\\Users\\bilel\\Desktop\\mission traversee_2\\sicily_lines\\modele\\port.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|solutionrelative:sicily_lines\\modele\\port.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|C:\\Users\\bilel\\Desktop\\mission traversee_2\\sicily_lines\\modele\\bateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|solutionrelative:sicily_lines\\modele\\bateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|C:\\Users\\bilel\\Desktop\\mission traversee_2\\sicily_lines\\dal\\liaisondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|solutionrelative:sicily_lines\\dal\\liaisondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|C:\\Users\\bilel\\Desktop\\mission traversee_2\\sicily_lines\\modele\\liaison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|solutionrelative:sicily_lines\\modele\\liaison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|C:\\Users\\bilel\\Desktop\\mission traversee_2\\sicily_lines\\dal\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|solutionrelative:sicily_lines\\dal\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|C:\\Users\\bilel\\Desktop\\mission traversee_2\\sicily_lines\\dal\\secteurdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|solutionrelative:sicily_lines\\dal\\secteurdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|C:\\Users\\bilel\\Desktop\\mission traversee_2\\sicily_lines\\dal\\traverseedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|solutionrelative:sicily_lines\\dal\\traverseedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|C:\\Users\\bilel\\Desktop\\mission traversee_2\\sicily_lines\\vue\\formgestionliaison.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715FA0FC-DBDA-4203-A3B5-5FCDF701A0C7}|Sicily_Lines\\Sicily_Lines.csproj|solutionrelative:sicily_lines\\vue\\formgestionliaison.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormGestionLiaison.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Vue\\FormGestionLiaison.cs",
+              "RelativeDocumentMoniker": "Sicily_Lines\\Vue\\FormGestionLiaison.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Vue\\FormGestionLiaison.cs [Design]",
+              "RelativeToolTip": "Sicily_Lines\\Vue\\FormGestionLiaison.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:26:16.688Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormTraversee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Vue\\FormTraversee.cs",
+              "RelativeDocumentMoniker": "Sicily_Lines\\Vue\\FormTraversee.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Vue\\FormTraversee.cs [Design]",
+              "RelativeToolTip": "Sicily_Lines\\Vue\\FormTraversee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:33:00.999Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormGestionLiaison.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Vue\\FormGestionLiaison.cs",
+              "RelativeDocumentMoniker": "Sicily_Lines\\Vue\\FormGestionLiaison.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Vue\\FormGestionLiaison.cs",
+              "RelativeToolTip": "Sicily_Lines\\Vue\\FormGestionLiaison.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAnwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:08:01.321Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mgr.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Controleur\\Mgr.cs",
+              "RelativeDocumentMoniker": "Sicily_Lines\\Controleur\\Mgr.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Controleur\\Mgr.cs",
+              "RelativeToolTip": "Sicily_Lines\\Controleur\\Mgr.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwE4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:19:21.551Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormTraversee.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Vue\\FormTraversee.cs",
+              "RelativeDocumentMoniker": "Sicily_Lines\\Vue\\FormTraversee.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Vue\\FormTraversee.cs",
+              "RelativeToolTip": "Sicily_Lines\\Vue\\FormTraversee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvx0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:55:28.781Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LiaisonDAO.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\DAL\\LiaisonDAO.cs",
+              "RelativeDocumentMoniker": "Sicily_Lines\\DAL\\LiaisonDAO.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\DAL\\LiaisonDAO.cs",
+              "RelativeToolTip": "Sicily_Lines\\DAL\\LiaisonDAO.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAEcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:10:47.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Connexion.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\DAL\\Connexion.cs",
+              "RelativeDocumentMoniker": "Sicily_Lines\\DAL\\Connexion.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\DAL\\Connexion.cs",
+              "RelativeToolTip": "Sicily_Lines\\DAL\\Connexion.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:48:07.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BateauDAO.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\DAL\\BateauDAO.cs",
+              "RelativeDocumentMoniker": "Sicily_Lines\\DAL\\BateauDAO.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\DAL\\BateauDAO.cs",
+              "RelativeToolTip": "Sicily_Lines\\DAL\\BateauDAO.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:46:10.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PortDAO.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\DAL\\PortDAO.cs",
+              "RelativeDocumentMoniker": "Sicily_Lines\\DAL\\PortDAO.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\DAL\\PortDAO.cs",
+              "RelativeToolTip": "Sicily_Lines\\DAL\\PortDAO.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:11:38.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SecteurDAO.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\DAL\\SecteurDAO.cs",
+              "RelativeDocumentMoniker": "Sicily_Lines\\DAL\\SecteurDAO.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\DAL\\SecteurDAO.cs",
+              "RelativeToolTip": "Sicily_Lines\\DAL\\SecteurDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:11:40.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TraverseeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\DAL\\TraverseeDAO.cs",
+              "RelativeDocumentMoniker": "Sicily_Lines\\DAL\\TraverseeDAO.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\DAL\\TraverseeDAO.cs",
+              "RelativeToolTip": "Sicily_Lines\\DAL\\TraverseeDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:12:38.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Liaison.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Modele\\Liaison.cs",
+              "RelativeDocumentMoniker": "Sicily_Lines\\Modele\\Liaison.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Modele\\Liaison.cs",
+              "RelativeToolTip": "Sicily_Lines\\Modele\\Liaison.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwB8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:28:26.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormGestionLiaison.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Vue\\FormGestionLiaison.Designer.cs",
+              "RelativeDocumentMoniker": "Sicily_Lines\\Vue\\FormGestionLiaison.Designer.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Vue\\FormGestionLiaison.Designer.cs",
+              "RelativeToolTip": "Sicily_Lines\\Vue\\FormGestionLiaison.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:13:34.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormTraversee.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Vue\\FormTraversee.Designer.cs",
+              "RelativeDocumentMoniker": "Sicily_Lines\\Vue\\FormTraversee.Designer.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Vue\\FormTraversee.Designer.cs",
+              "RelativeToolTip": "Sicily_Lines\\Vue\\FormTraversee.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:13:44.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bateau.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Modele\\Bateau.cs",
+              "RelativeDocumentMoniker": "Sicily_Lines\\Modele\\Bateau.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Modele\\Bateau.cs",
+              "RelativeToolTip": "Sicily_Lines\\Modele\\Bateau.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:58:19.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Port.cs",
+              "DocumentMoniker": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Modele\\Port.cs",
+              "RelativeDocumentMoniker": "Sicily_Lines\\Modele\\Port.cs",
+              "ToolTip": "C:\\Users\\bilel\\Desktop\\mission traversee_2\\Sicily_Lines\\Modele\\Port.cs",
+              "RelativeToolTip": "Sicily_Lines\\Modele\\Port.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:53:23.163Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
